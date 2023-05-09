@@ -8,7 +8,8 @@
             "Smkbd\\Contact9\\": "src/"
         }
     },
-	"minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "authors": [
         {
             "name": "S M Khalilullah",
@@ -19,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Smkbd\\Contact9\\ContactServiceProivder"
+                "Smkbd\\Contact9\\ContactServiceProvider"
             ]
         }
     }
