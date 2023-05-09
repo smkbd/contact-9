@@ -8,6 +8,7 @@
             "Smkbd\\Contact9\\": "src/"
         }
     },
+	"minimum-stability": "stable"
     "authors": [
         {
             "name": "S M Khalilullah",
