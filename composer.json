@@ -20,7 +20,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Smkbd\\Contact9\\ContactServiceProvider"
+                "Smkbd\\Contact9\\ContactServiceProvider" 
             ]
         }
     }
