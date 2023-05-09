@@ -1,0 +1,25 @@
+{
+    "name": "smkbd/contact-9",
+    "description": "Test contact package for laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Smkbd\\Contact9\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "S M Khalilullah",
+            "email": "14842230+smkbd@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Smkbd\\Contact9\\ContactServiceProivder"
+            ]
+        }
+    }
+}
