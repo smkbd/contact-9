@@ -7,6 +7,7 @@ class ContactServiceProvider extends ServiceProvider{
     public function register()
     {
         dd(45454);
+		
     }
 
     public function boot()
